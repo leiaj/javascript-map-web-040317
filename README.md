@@ -124,4 +124,5 @@ In this code snippet, we're using the native `.map()` function that is a propert
 
 - [MDN: Array.prototype.map()](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Array/map)
 
-<p class='util--hide'>View <a href='https://learn.co/lessons/javascript-map'>Map</a> on Learn.co and start learning to code for free.</p>
+<p class='util--hide'>View <a href='https://learn.co/lessons/javascript-map'>Map</a> on Learn.co and start learning to code for free.</p
+ktfkftftkfktftkfkfkfktfukftukftkufut f uioy;;y;oyuudtftiltdyl;tyfkty;uf;iug.jyf
